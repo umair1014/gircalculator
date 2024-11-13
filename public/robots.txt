@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gir-calculator.netlify.app/sitemap.xml
